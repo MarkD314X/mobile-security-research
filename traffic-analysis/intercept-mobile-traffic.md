@@ -4,9 +4,9 @@
 
 ## Objective
 
-To generate mobile traffic from an emulated Android device with an insecure aplication as the destination. 
+To generate mobile traffic from an emulated Android device with an insecure application as the destination. 
 Capture the traffic with the use of tools such as Burpsuite and Wireshark. 
-Then analyze and document the information to identify insecure communications. 
+Analyze and document the information to identify the insecure communications. 
 
 ## Lab Environment
 
