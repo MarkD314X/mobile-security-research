@@ -47,11 +47,11 @@ Launch the Android Virtual Device(AVD): Start-Process emulator -ArgumentList "-a
 
 3. Configure Proxy on the Emulator
 Use Android Debug Bridge(ADB) to route emulator traffic through local proxy: 
-adb shell settings put global http_proxy 192.168.1.***:8080
+adb shell settings put global http_proxy 10.5.0.2:8080
 
 4. Start the Proxy Listener 
 Launch Burp Suite and configure the proxy listener to global on port 8080:
-Bind address: All Interfaces (*)
+Bind address: All Interfaces (*) 
 Port: 8080
 Example:  *:8080
 
