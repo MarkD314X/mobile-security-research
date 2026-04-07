@@ -56,7 +56,7 @@ Port: 8080
 Example:  *:8080
 
 5. Generate Network Traffic
-Open browser on emulated device. Attempt to navigate to website to generate HTTP requests.
+Open browser on emulated device. Attempt to navigate to website to generate HTTP/HTTPS requests. Using OWASP Juice Shop for web traffic.
 
 6. Capture Traffic
 Observe the requests in Burp Suite.
@@ -64,5 +64,7 @@ Burp Suite -> Proxy -> HTTP history
 
 
 ## Results
+
+
 
 ## Notes
