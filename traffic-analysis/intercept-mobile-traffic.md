@@ -65,6 +65,10 @@ Burp Suite -> Proxy -> HTTP history
 
 ## Results
 
+Succesfully logged in as admin using,
+ "email":"admin@juice-sh.op","password":"admin123"
+![alt text](image-2.png)
+
 
 
 ## Notes
