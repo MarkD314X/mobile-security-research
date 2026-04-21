@@ -72,3 +72,5 @@ Succesfully logged in as admin using,
 
 
 ## Notes
+
+Added DVWA for additional testing. Pulled repo from GitHub and running in Docker. After starting Docker, http://localhost:8081/login.php is run from Burp Suite. Logged in with admin password.
